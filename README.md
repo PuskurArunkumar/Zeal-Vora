@@ -1,2 +1,2 @@
-# Zeal-Vora
+# Zeal-Vora Terraform
 Terraform
